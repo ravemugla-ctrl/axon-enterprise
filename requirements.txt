@@ -1,4 +1,4 @@
 streamlit
 pandas
-numpy
-crewai
+crewai==0.1.32
+langchain-groq
